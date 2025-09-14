@@ -38,3 +38,5 @@ aedes.on('publish', (packet, client) => {
     console.log(`Message from ${client.id}:`, packet.topic, packet.payload.toString())
   }
 })
+
+// --- Just for development. ___
