@@ -39,4 +39,4 @@ aedes.on('publish', (packet, client) => {
   }
 })
 
-// --- Just for development. ___
+// --- Just for development. ---
